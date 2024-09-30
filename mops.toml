@@ -1,0 +1,14 @@
+[dependencies]
+base = "0.13.0"
+map = "9.0.1"
+
+[dev-dependencies]
+test = "2.0.0"
+fuzz = "0.2.1"
+
+[package]
+name = "icrc10-mo"
+version = "0.0.1"
+description = "ICR-10 for motoko"
+repository = "https://github.com/panindustrial_org/icrc10.mo"
+keywords = [ "icrc10", "supported", "standards" ]
