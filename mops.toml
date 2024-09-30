@@ -10,5 +10,5 @@ fuzz = "0.2.1"
 name = "icrc10-mo"
 version = "0.0.1"
 description = "ICR-10 for motoko"
-repository = "https://github.com/panindustrial_org/icrc10.mo"
+repository = "https://github.com/PanIndustrial-Org/icrc10.mo"
 keywords = [ "icrc10", "supported", "standards" ]
